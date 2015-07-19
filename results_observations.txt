@@ -1,0 +1,8 @@
+Game - 4 possible velocities, 4 possible directions to move
+
+Network : (nin=8, nout=4, nhidden=10)
+
+Train - 5214 inputs 
+Validation - 1303
+
+Validation Error (epoch 110) > .3838
